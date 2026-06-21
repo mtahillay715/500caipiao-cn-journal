@@ -1,2 +1,14 @@
 # 500caipiao-cn-journal
-HTML page archive and documentation
+
+发布页面归档目录
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 维护方式
+
+发布程序会按配置写入文件，手动修改时请保留现有结构。
